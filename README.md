@@ -9,7 +9,7 @@ Simple mode supports:
 - Division
 
 Advanced mode supports: 
--All of the features above
+- All of the features above
 - Factorials
 - Exponents
 - Modulo
