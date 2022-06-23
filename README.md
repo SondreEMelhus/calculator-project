@@ -3,18 +3,18 @@
 This project contains a calculator built in React.js in combination with MaterialUI. The calculator consists of a simple and advanced version, that can be accessed by toggeling a switch. 
 
 Simple mode supports:
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-Advanced mode supports:
-    - All of the features above
-    - Factorials
-    - Exponents
-    - Modulo
-    - Log2
-    - Decimals
+Advanced mode supports: 
+-All of the features above
+- Factorials
+- Exponents
+- Modulo
+- Log2
+- Decimals
 
 The current version of this project does NOT support inputs via keypresses, but instead uses a virtual keyboard.
 
