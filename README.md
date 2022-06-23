@@ -22,7 +22,7 @@ The current version of this project does NOT support inputs via keypresses, but 
 
 - Implement support for input via keypress
 - Improve styling
-- Add aditional features for the advanced calculator
+- Add additional features for the advanced calculator
 
 ## Available Scripts
 
